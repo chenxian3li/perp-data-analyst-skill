@@ -1,0 +1,7 @@
+demo_exchange,trade_fills,fill_id,text,NO,Synthetic unique fill identifier
+demo_exchange,trade_fills,account_id,text,NO,Synthetic account identifier
+demo_exchange,trade_fills,market_id,text,NO,Synthetic market identifier
+demo_exchange,trade_fills,executed_at,timestamp,NO,Synthetic fill execution timestamp assumed UTC
+demo_exchange,trade_fills,notional_usd,decimal,NO,Synthetic executed notional in USD
+demo_exchange,trade_fills,fee_usd,decimal,YES,Synthetic fee in USD
+demo_exchange,trade_fills,liquidity_role,text,YES,Synthetic maker or taker classification

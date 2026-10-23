@@ -1,0 +1,4 @@
+interface:
+  display_name: "Perpetuals Data Analyst"
+  short_description: "Read-only perpetuals data analysis with verified SQL"
+  default_prompt: "Use $perp-data-analyst to interpret my perpetuals analytics question, verify definitions, and produce safe reproducible SQL and a source-backed answer."
